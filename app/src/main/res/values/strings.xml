@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyButton</string>
+    <string name="text_view_value">0</string>
+    <string name="increase_button_value">Increase</string>
+    <string name="decrease_button_value">Decrease</string>
+    <string name="color_button_value">Colorify!</string>
+    <string name="double_button_value">Double!</string>
+</resources>
